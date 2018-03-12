@@ -1,4 +1,4 @@
-package com.retrospect.amqp.retrospectrabbitmqamqp.tutorials;
+package com.retrospect.amqp.retrospectrabbitmqamqp.tutorials.tutorial1;
 
 import org.springframework.amqp.core.Queue;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
